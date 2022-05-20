@@ -1,7 +1,7 @@
 # Pdf-Yukleme-Websitesi
 Kocaeli Üniversitesi Bilgisayar Mühendisliği YAZLAB-I,2021-2022 Güz Dönemi Proje 3
 
-Projede web tabanlı bir araç takip sistemi yapılması istenmiştir. Kullanıcı web sayfası üzerinden giriş yaparak kendisine ait olan araçları ve bu araçların konumlarını harita üzerinde markerla görebilmeli, zaman aralığı belirterek filtreleme yapabilmeli ve filtrelenmiş veriyi haritada görebilmelidir. Kullanıcı kullanıcıya ait her bir aracı ve konumunu ayrı ayrı görebilmelidir.
+
 
 Yukarıdaki seçeneklerden admin ve ya kullanici girişi seçilerek seçilen LOGIN sayfasına gider
 
